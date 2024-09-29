@@ -9,7 +9,7 @@
  > $$
  >
  > où $N_A = 6,023\times 10^{-23} mol ^{-1}$ est le nombre d'Avogadro.
-### A. Calcul d'une quantité de matière à partir d'une *masse*
+### A. Calcul d'une quantité de matière à partir d'une *masse*.
 * La masse molaire **atomique** d’une espèce est la masse d’une mole d’atomes de cette espèce. Elle est notée M et s’exprime en $g.mol^{-1}$
   **Remarque** : On trouve les masses molaires atomiques dans le tableau périodique des éléments.
 
