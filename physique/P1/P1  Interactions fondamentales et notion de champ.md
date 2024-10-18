@@ -1,4 +1,8 @@
-# P1 : Interactions fondamentales et notion de champ.
+---
+
+---
+
+# P1 : Interactions fondamentales et notion de champ. 
 ## 1. L’interaction électrostatique.
 
 ### A. Charges et interactions électrostatique
@@ -37,37 +41,41 @@ la force est **répulsive**  car  $q_A × q_B > 0 $  |  la force est **attractiv
 
 > **Loi de Newton :** La force gravitationnelle exercée par un point de masse $m_A$ sur un point de masse $m_B$ placé à une distance $d$ est :
 >$$
-\fbox{${\vec F}_{A/B}=\frac{G\times m_A\times m_B}{d^2}{\vec{u}}_{A/B}$}
+\fbox{${\vec F}_{A/B}=-\frac{G\times m_A\times m_B}{d^2}{\vec{u}}_{A/B}$}
 $$
-> avec $m_A$ et $m_B$ les masses en kilogramme (kg)  d la distance en mètre (m), $\vec{u}_{A/B}$ vecteur unitaire dirigé de A vers B et $G = 6,67×10^{-11} N.m^2.kg^{−2} $ est la constante gravitationnelle.
+> avec $m_A$ et $m_B$ les masses en kilogramme (kg)  d la distance en mètre (m), $\vec{u}_{A/B}$ vecteur unitaire dirigé de A vers B et $G = 6,67\times10^{-11}\ N.m^2.kg^{-2}$ est la constante gravitationnelle.
 
 **Remarques : **
 
+* La loi de Newton est valable pour des corps sphériques (planètes) à condition d'utiliser la distance en les centres.
 * Comme les masses sont toujours positives, la force gravitationnelle est **attractive**
 * Les lois de Newton de Coulomb ont la même forme mathématique, car elles sont **inversement proportionnelles au carré de la distance.**
 
 ## 2. Notion de champ.
 
-Lorsque deux points A et B sont en interaction, deux  *interprétations* sont possibles :
-* B subit la force directement exercée par A.
-* A créé un champ autour de lui, et B subit une force exercée par le champ.
+Lorsque deux points A et B sont en interaction à distance, deux  *interprétations* sont possibles :
+* Dire que B subit la force directement **exercée par A** à distance.
+* Ou dire que A créé un champ autour de lui, et B subit une force **exercée par le champ** au point où il se trouve.
 
-### A. Champ de gravitation
+### A. Champ de gravitation.
 
-Lorsque deux points A et B sont en interaction, on peut dire soit :
-* que B subit la force exercée par A:  ${\vec{F}}_B$
-* que B est soumis au champ $\vec{\zeta}$ (qui a été créé par A.)
+Lorsque deux points A et B sont en interaction gravitationnelle, on peut dire soit :
+* que B subit la force **exercée par A**:  ${\vec{F}}$
+* que B subit la force **exercée par le champ** $\vec{\zeta}$ qui existe au point où il se trouve 
+  **Remarque**: ce champ est créé par A.
 
-> **Généralisation :** Un point B de masse $m_B$ placé dans une zone de l’espace où existe un champ gravitationnelle, $\vec{\zeta}$, subit une force gravitationnelle : $\fbox{$\vec{F}_B=m_B . \vec{\zeta}$}$
+> **Généralisation :** Un point M de masse $m$ placé dans une zone de l’espace où existe un champ gravitationnelle, $\vec{\zeta}$, subit une force gravitationnelle : $\fbox{$\vec{F}=m . \vec{\zeta}$}$
 
-### B. Champ électrostatique
+### B. Champ électrostatique.
 Le principe est le même : la présence de charges électriques créé un champ électrostatique $\vec{E}$ dans l’espace
 
-> **Généralisation :** Un point B de charge q placé dans une zone de l’espace où il y a un champ électrostatique, $\vec{E}$ subit une force électrostatique $\fbox{$ \vec{F}_B=q . \vec{E}$}$
+> **Généralisation :** Un point M de charge q placé dans une zone de l’espace où il y a un champ électrostatique, $\vec{E}$ subit une force électrostatique $\fbox{$ \vec{F}=q . \vec{E}$}$
 
 **Remarque**: Si q > 0, la force est de même sens que le champ $\vec{E}$,  si q < 0 la force est opposée au champ.
 
-### C. Lignes de champ
+### C. Exemples
+
+### D. Lignes de champ.
 
 Les champs gravitationnel ou électrostatique sont vectoriels, pour les représenter dans une zone de l’espace, on dessine soit :
 
