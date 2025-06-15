@@ -14,7 +14,7 @@
 * Les charges de même signe (document 2) se repoussent, et celle de signe contraire s'attirent. <img src="./doc/pendules.png" alt="pendule" style="zoom:24%;" />
 
 * Un objet électrisé (document 3) est capable de séparer les charges électrique d’un objet qui est proche de lui par influence.
-<img src="./doc/influence.png" alt="influence" style="zoom:40%;" />
+<img src="./doc/influence.png" alt="influence" style="zoom:5%;" />
 
 ### B. Loi de Coulomb.
 
